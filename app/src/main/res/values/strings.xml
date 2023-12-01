@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Expense Maganer</string>
+    <string name="txtType">Type</string>
+    <string name="rbIncome">Income</string>
+    <string name="rbExpense">Expense</string>
+    <string name="txtAmount">Amount</string>
+    <string name="txtCategory">Category</string>
+    <string name="txtDateandTime">Date and Time</string>
+    <string name="txtDate">Date :-</string>
+    <string name="txtTime">Time :-</string>
+    <string name="txtmode">Mode</string>
+    <string name="txtnote">Note</string>
+    <string name="btnSubmit">Submit</string>
+    <string name="txtExpenseManager">Expense Manager</string>
+    <string name="txtExpense">Add Expense</string>
+    <string name="txtIncome">Add Income</string>
+    <string name="txtTransaction">View Transaction</string>
+</resources>
